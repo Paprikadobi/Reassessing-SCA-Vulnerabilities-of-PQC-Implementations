@@ -1,0 +1,89 @@
+.metadata-property[data-property-key="family"] .multi-select-pill {
+    background: #5a3a6580;
+    color: #b28fbe;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="family"] .multi-select-pill-remove-button {
+    color: #b28fbe;
+}
+
+.metadata-property[data-property-key="scheme"] .multi-select-pill {
+    background: #42497a80;
+    color: #969cc6;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="scheme"] .multi-select-pill-remove-button {
+    color: #969cc6;
+}
+
+.metadata-property[data-property-key="countermeasures"] .multi-select-pill {
+    background: #3c512780;
+    color: #9dbf7b;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="countermeasures"] .multi-select-pill-remove-button {
+    color: #9dbf7b;
+}
+
+.metadata-property[data-property-key="protected part"] .multi-select-pill {
+    background: #6b481c80;
+    color: #d8a76a;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="protected part"] .multi-select-pill-remove-button {
+    color: #d8a76a;
+}
+
+.metadata-property[data-property-key="implementation"] .multi-select-pill {
+    background: #0eb68180;
+    color: #6df3c9;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="implementation"] .multi-select-pill-remove-button {
+    color: #6df3c9;
+}
+
+.metadata-property[data-property-key="adversarial"] .multi-select-pill {
+    background: #e2ea0280;
+    color: #f9fd77;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="adversarial"] .multi-select-pill-remove-button {
+    color: #f9fd77;
+}
+
+.metadata-property[data-property-key="possible countermeasures"] .multi-select-pill {
+    background: #c8239680;
+    color: #ea89cd;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="possible countermeasures"] .multi-select-pill-remove-button {
+    color: #ea89cd;
+}
+
+.metadata-property[data-property-key="target"] .multi-select-pill {
+    background: #d6850380;
+    color: #fcc66e;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="target"] .multi-select-pill-remove-button {
+    color: #fcc66e;
+}
+
+.metadata-property[data-property-key="techniques"] .multi-select-pill {
+    background: #75192580;
+    color: #de6776;
+    padding: 1px 6px 1px 8px;
+}
+
+.metadata-property[data-property-key="techniques"] .multi-select-pill-remove-button {
+    color: #de6776;
+}
